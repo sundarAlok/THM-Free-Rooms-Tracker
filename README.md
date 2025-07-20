@@ -21,8 +21,8 @@ A web-based tracker for TryHackMe rooms, organized by category, with progress ba
 ## Screenshots
 
 <div style="display: flex; gap: 100;">
-  <img width="500" height="470" alt="Annotation 2025-07-20 181226" src="https://github.com/user-attachments/assets/ad7a0c7a-e920-4c41-a4be-2d69b9c4af54" />
-  <img width="500" height="470" alt="Annotation 2025-07-20 181844" src="https://github.com/user-attachments/assets/0e6887ec-93d1-416f-8767-6d7bfa1edd73" />
+  <img width="470" height="470" alt="Annotation 2025-07-20 181226" src="https://github.com/user-attachments/assets/ad7a0c7a-e920-4c41-a4be-2d69b9c4af54" />
+  <img width="470" height="470" alt="Annotation 2025-07-20 181844" src="https://github.com/user-attachments/assets/0e6887ec-93d1-416f-8767-6d7bfa1edd73" />
 </div>
 
 

@@ -1,4 +1,4 @@
-# THM Room Tracker
+# THM Free Rooms Tracker
 
 A web-based tracker for TryHackMe rooms, organized by category, with progress bars and search functionality.
 

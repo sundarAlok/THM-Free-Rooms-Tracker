@@ -83,18 +83,21 @@ repo-root/
 
 - Open the `index.html` file located in the `THM-Room-Tracker-v1` folder directly in your browser.
 - Use the checkboxes to mark rooms as completed.
-- The state is saved locally in your browser's localStorage.
+- The state is saved locally in your respective browser's localStorage only.
 
 ## Screenshots
 
-![Tracker Screenshot 1](https://github.com/user-attachments/assets/ad7a0c7a-e920-4c41-a4be-2d69b9c4af54)
-![Tracker Screenshot 2](https://github.com/user-attachments/assets/0e6887ec-93d1-416f-8767-6d7bfa1edd73)
+<img width="1296" height="714" alt="room-tracker-ss1" src="https://github.com/user-attachments/assets/86f16e54-b2b9-42ba-8132-d6de1d7407cf" />
+
+<br><br>
+<img width="1299" height="715" alt="room-tracker-ss2" src="https://github.com/user-attachments/assets/1ba567d8-983d-4de1-95ab-fa103954104b" />
+
 
 ## Technologies Used
 
-- Python (Flask) for backend in THM-Free-Rooms-Tracker
-- HTML5, CSS3, JavaScript (ES6)
-- JSON for state management in THM-Free-Rooms-Tracker
+- Python (Flask) `for backend in THM-Free-Rooms-Tracker-v2`
+- HTML5, CSS3, JavaScript (ES6) `in both v1 & v2`
+- JSON `for state management in THM-Free-Rooms-Tracker-v2`
 
 ## License
 
